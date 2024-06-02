@@ -1,3 +1,5 @@
+Github Pages : https://andiniseptia.github.io/Exe2_20220140053_AndiniSeptiAndri/
+
 Hasil run code :
 Home :
 ![image](https://github.com/andiniseptia/Exe2_20220140053_AndiniSeptiAndri/assets/127277482/01b50b44-bcef-44f4-ab16-d1e867429121)
